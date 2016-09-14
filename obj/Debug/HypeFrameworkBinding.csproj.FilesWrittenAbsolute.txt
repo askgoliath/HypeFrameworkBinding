@@ -1,0 +1,5 @@
+/Users/daveTheGoliath/Projects/Lounging/HypeFrameworkBinding/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/daveTheGoliath/Projects/Lounging/HypeFrameworkBinding/bin/Debug/HypeFrameworkBinding.dll.mdb
+/Users/daveTheGoliath/Projects/Lounging/HypeFrameworkBinding/bin/Debug/HypeFrameworkBinding.dll
+/Users/daveTheGoliath/Projects/Lounging/HypeFrameworkBinding/obj/Debug/HypeFrameworkBinding.dll
+/Users/daveTheGoliath/Projects/Lounging/HypeFrameworkBinding/obj/Debug/HypeFrameworkBinding.dll.mdb
